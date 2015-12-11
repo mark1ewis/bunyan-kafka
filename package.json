@@ -27,7 +27,7 @@
   "dependencies": {
     "assert-plus": "0.1.5",
     "bunyan": "1.4.0",
-    "kafka-node": "0.2.27"
+    "kafka-node": "~0.2.27"
   },
   "devDependencies": {
     "chai": "^3.0.0",
